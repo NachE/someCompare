@@ -1,0 +1,4 @@
+someCompare
+===========
+
+Compare texts
